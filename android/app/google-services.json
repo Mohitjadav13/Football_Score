@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27146344469",
+    "project_id": "onefootball-802fe",
+    "storage_bucket": "onefootball-802fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27146344469:android:861a903b3b56b525f2561c",
+        "android_client_info": {
+          "package_name": "com.onefootball.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27146344469-gn3c7bq5pl20t6jgms4e9gl7j2n6tcl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onefootball.app",
+            "certificate_hash": "0c94f9655dcb159e8ce959e08751b51884d9b2d1"
+          }
+        },
+        {
+          "client_id": "27146344469-ac4nnq3fc15lho7jahqh8pthgt6gofks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80hElySFAX5JfIp1AP6sk10_dVUVGH98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27146344469-ac4nnq3fc15lho7jahqh8pthgt6gofks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
